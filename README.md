@@ -96,13 +96,6 @@ Through these practicals and projects, I aim to:
 - Understand Java web application development
 - Gain experience with version control using Git and GitHub
 
-## 📈 Future Improvements
-
-- Add detailed descriptions for every practical
-- Include sample outputs and screenshots
-- Improve project documentation
-- Add more Java programs and projects
-- Expand knowledge of backend development and software engineering
 
 ## 👩‍💻 Author
 
