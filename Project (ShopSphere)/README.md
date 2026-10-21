@@ -124,14 +124,6 @@ The main objective of ShopSphere is to demonstrate the development of a Java-bas
 
 This project provides practical experience with web application development, CRUD operations, database connectivity, user workflows, and software deployment.
 
-## 🔮 Future Enhancements
-
-- Online payment gateway integration
-- Product search and advanced filtering
-- Product reviews and ratings
-- Improved security and input validation
-- Responsive UI improvements
-- Email notifications and order updates
 
 ## 👩‍💻 Developer
 
