@@ -106,9 +106,9 @@ Through these practicals and projects, I aim to:
 
 ## 👩‍💻 Author
 
-**Neha Mulani**
+**karan singh shekhawat**
 
-GitHub: [@nehamulanihub](https://github.com/nehamulanihub)
+GitHub: [@Karansingh1644](https://github.com/Karansingh1644)
 
 ## 📄 License
 
