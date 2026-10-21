@@ -87,7 +87,7 @@ This project helps in understanding servlet lifecycle, request and response hand
 
 ## Author
 
-**Neha Mulani**
+**karan singh shekhawat**
 
 ## Note
 
