@@ -135,9 +135,9 @@ This project provides practical experience with web application development, CRU
 
 ## 👩‍💻 Developer
 
-**Neha Mulani**
+**karan singh shekhawat**
 
-GitHub: [@nehamulanihub](https://github.com/nehamulanihub)
+GitHub: [@Karansingh1644](https://github.com/Karansingh1644)
 
 ## 📄 License
 
