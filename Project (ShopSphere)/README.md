@@ -123,7 +123,14 @@ It contains the database structure and sample data exported for project setup. I
 The main objective of ShopSphere is to demonstrate the development of a Java-based e-commerce application using server-side technologies, database integration, and Maven-based project management.
 
 This project provides practical experience with web application development, CRUD operations, database connectivity, user workflows, and software deployment.
+## 🔮 Future Enhancements
 
+- Online payment gateway integration
+- Product search and advanced filtering
+- Product reviews and ratings
+- Improved security and input validation
+- Responsive UI improvements
+- Email notifications and order updates
 
 ## 👩‍💻 Developer
 
